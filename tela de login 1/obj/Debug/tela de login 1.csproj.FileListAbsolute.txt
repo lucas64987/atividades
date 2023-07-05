@@ -1,0 +1,11 @@
+C:\Users\lucas.rrosendo\source\repos\tela de login 1\tela de login 1\bin\Debug\tela de login 1.exe.config
+C:\Users\lucas.rrosendo\source\repos\tela de login 1\tela de login 1\bin\Debug\tela de login 1.exe
+C:\Users\lucas.rrosendo\source\repos\tela de login 1\tela de login 1\bin\Debug\tela de login 1.pdb
+C:\Users\lucas.rrosendo\source\repos\tela de login 1\tela de login 1\obj\Debug\tela de login 1.csproj.AssemblyReference.cache
+C:\Users\lucas.rrosendo\source\repos\tela de login 1\tela de login 1\obj\Debug\tela de login 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas.rrosendo\source\repos\tela de login 1\tela de login 1\obj\Debug\tela_de_login_1.Form1.resources
+C:\Users\lucas.rrosendo\source\repos\tela de login 1\tela de login 1\obj\Debug\tela_de_login_1.Properties.Resources.resources
+C:\Users\lucas.rrosendo\source\repos\tela de login 1\tela de login 1\obj\Debug\tela de login 1.csproj.GenerateResource.cache
+C:\Users\lucas.rrosendo\source\repos\tela de login 1\tela de login 1\obj\Debug\tela de login 1.csproj.CoreCompileInputs.cache
+C:\Users\lucas.rrosendo\source\repos\tela de login 1\tela de login 1\obj\Debug\tela de login 1.exe
+C:\Users\lucas.rrosendo\source\repos\tela de login 1\tela de login 1\obj\Debug\tela de login 1.pdb
